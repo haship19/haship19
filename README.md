@@ -1,0 +1,3 @@
+- 🥇 meu nome @hash19  
+- 👀 eu estou interessado em programação
+- 🌱 estou aprendendo a programar a linguagem JavaScript e Scratch
